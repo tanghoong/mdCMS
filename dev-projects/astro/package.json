@@ -17,7 +17,7 @@
     "@keystatic/core": "workspace:^",
     "@types/react": "^18.2.8",
     "@types/react-dom": "^18.0.11",
-    "astro": "^4.0.3",
+    "astro": "^4.16.18",
     "cookie": "^0.5.0",
     "direction": "^2.0.1",
     "is-hotkey": "^0.2.0",
